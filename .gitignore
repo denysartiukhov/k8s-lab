@@ -4,3 +4,6 @@
 # tf state files
 ./terraform/aws/lab-k8s/*.tfstate
 ./terraform/aws/lab-k8s/*.tfstate.*
+
+# tfvar variables file
+./terraform/aws/lab-k8s/*.tfvars
