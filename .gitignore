@@ -1,0 +1,6 @@
+# local .terraform dir
+./terraform/aws/lab-k8s/.terraform/*
+
+# tf state files
+./terraform/aws/lab-k8s/*.tfstate
+./terraform/aws/lab-k8s/*.tfstate.*
