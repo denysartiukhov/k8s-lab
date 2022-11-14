@@ -1,7 +1,7 @@
 vpc_cidr_block = "10.0.0.0/16"
 subnet_cidr_block = "10.0.10.0/24"
 availability_zone = "us-east-1b"
-my_ip = "142.147.58.81/32"
+my_ip = ""
 instance_type = "t2.medium"
 public_key_location = "/Users/denysartiukhov/.ssh/id_rsa.pub"
 image_name = "amzn2-ami-*-x86_64-gp2"
