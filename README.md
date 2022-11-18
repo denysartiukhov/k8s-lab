@@ -1,1 +1,1 @@
-sudo minikube start --driver=docker
+minikube start --driver=docker
